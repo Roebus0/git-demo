@@ -2,7 +2,7 @@
 
 first fine in the repository.
 
-## ipsum
+## text
 
 random text here.
 even more text.
